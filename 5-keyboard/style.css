@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid rgb(246, 230, 230);
+    height: 120px;
+    width: 450px;
+    color: cornflowerblue;
+}
+
+.project {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.color {
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
